@@ -28,7 +28,6 @@ I specialize in **HTML, CSS (Sass), and JavaScript**, and I’m continuously imp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/
 icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
@@ -56,4 +55,4 @@ icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 
 
 ---
-⭐️ *Open to internship opportunities in Front-End Development*
+⭐️ *Open to internship opportunities in Front-End Development*.
