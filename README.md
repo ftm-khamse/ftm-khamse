@@ -15,7 +15,9 @@ I specialize in **HTML, CSS (Sass), and JavaScript**, and I’m continuously imp
   <a href="https://www.linkedin.com/in/fatemeh-khamseh-995bb6337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  
+  <a href="@Fvf_kh"traget="_blank">
+  <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=flat-square&logo=telegram&logoColor=white
+  ">
 </p>
 
 ---
@@ -26,10 +28,10 @@ I specialize in **HTML, CSS (Sass), and JavaScript**, and I’m continuously imp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+alt="sass" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/
-icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
 </p>
 
@@ -46,13 +48,7 @@ icons/github/github-original.svg" alt="github" width="40" height="40"/>&nbsp;
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ftm-khamse&show_icons=true&theme=radical" alt="GitHub Stats" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ftm-khamse&layout=compact&theme=radical" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ftm-khamse&theme=radical" alt="GitHub Streak" />
-
-
 
 ---
 ⭐️ *Open to internship opportunities in Front-End Development*.
